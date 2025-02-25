@@ -1,0 +1,14 @@
+{
+    "John": {
+        "age": 30,
+        "job": "Software Engineer",
+        "location": "New York",
+        "E-mail": "John@gmail.com"
+    },
+    "Son Tung": {
+        "age": 28,
+        "job": "Data Scientist",
+        "location": "San Francisco",
+        "E-mail": "SonTung@gmail.com"
+    }
+}
